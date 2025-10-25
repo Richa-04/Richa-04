@@ -30,7 +30,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 ## 🎓 Education
 
 ### Master of Science in Information Systems
-**Northeastern University, Boston, MA** | *Expected May 2026*
+**Northeastern University** | *September 2025 - Expected May 2026*
 
 **Relevant Coursework:**
 - Application Engineering and Development
