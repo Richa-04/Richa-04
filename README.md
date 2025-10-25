@@ -86,33 +86,6 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ---
 
-## 💼 Work Experience
-
-### Python Developer
-**Kody Technolab Ltd., Ahmedabad, India** | *April 2022 – August 2023*  
-**Tech Stack:** Python | MySQL | AJAX | HTML | CSS | JavaScript | Django | AWS EC2 | AWS S3 | Machine Learning | NumPy
-
-#### 🎙️ Audio/Video Transcription System
-- Built an automated transcription system using Whisper AI with metadata-based language detection, async file handling with AWS S3, and CSV export mechanism
-- Achieved **95%+ accuracy** and reduced manual work by **85%**
-- Designed and deployed a user-friendly UI and cloud-hosted backend enabling scalable processing of **1000+ hours** of multilingual audio/video data
-
-#### 👓 Real-Time Virtual Eyewear Try-On
-- Engineered a real-time facial landmark detection and GAN-based virtual try-on system using OpenCV and NVIDIA GPU hardware
-- Achieved **90%+ fitting accuracy** through iterative Agile development
-- Deployed the trained model on AWS EC2, integrating with a commercial eyewear website to enhance customer shopping experience
-
-#### 🖨️ Printing Defect Detection System
-- Automated defect identification in the printing process using Computer Vision with automatic PDF report generation
-- Reduced manual inspection time by **70%** and improved defect detection accuracy to **92%**
-- Generated detailed defect descriptions for quality analysis
-
-#### 👥 Leadership & Mentorship
-- Conducted technical interviews and mentored interns
-- Enabled new team members to quickly onboard and contribute to real-world projects
-
----
-
 ## 🚀 Featured Projects
 
 ### 📂 Mini Google Drive - Smart Document Management System with AI Search
@@ -155,14 +128,40 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 - 🏪 Local service marketplace features
 - 💾 Comprehensive database management system
 - 🎨 Modern UI/UX design for seamless user experience
+  
 ---
+
+## 💼 Work Experience
+
+### Python Developer
+**Kody Technolab Ltd., Ahmedabad, India** | *April 2022 – August 2023*  
+**Tech Stack:** Python | MySQL | AJAX | HTML | CSS | JavaScript | Django | AWS EC2 | AWS S3 | Machine Learning | NumPy
+
+#### 🎙️ Audio/Video Transcription System
+- Built an automated transcription system using Whisper AI with metadata-based language detection, async file handling with AWS S3, and CSV export mechanism
+- Achieved **95%+ accuracy** and reduced manual work by **85%**
+- Designed and deployed a user-friendly UI and cloud-hosted backend enabling scalable processing of **1000+ hours** of multilingual audio/video data
+
+#### 👓 Real-Time Virtual Eyewear Try-On
+- Engineered a real-time facial landmark detection and GAN-based virtual try-on system using OpenCV and NVIDIA GPU hardware
+- Achieved **90%+ fitting accuracy** through iterative Agile development
+- Deployed the trained model on AWS EC2, integrating with a commercial eyewear website to enhance customer shopping experience
+
+#### 🖨️ Printing Defect Detection System
+- Automated defect identification in the printing process using Computer Vision with automatic PDF report generation
+- Reduced manual inspection time by **70%** and improved defect detection accuracy to **92%**
+- Generated detailed defect descriptions for quality analysis
+
+#### 👥 Leadership & Mentorship
+- Conducted technical interviews and mentored interns
+- Enabled new team members to quickly onboard and contribute to real-world projects
 
 ## 📜 Certifications
 
 - **AWS Associate Developer Certification** | 2025
 - **IBM Data Science Professional Certificate** | 2022
 
----
+--- 
 
 ## 🤝 Connect With Me
 
