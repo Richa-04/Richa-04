@@ -25,6 +25,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 🌱 **When I'm not coding:** Traveling to new places, hiking, or getting lost in anime worlds!
 
 ---
+
 ## 🎓 Education
 
 ### Master of Science in Information Systems
@@ -81,6 +82,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 💼 Work Experience
