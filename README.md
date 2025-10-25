@@ -156,6 +156,8 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 - Conducted technical interviews and mentored interns
 - Enabled new team members to quickly onboard and contribute to real-world projects
 
+--- 
+
 ## 📜 Certifications
 
 - **AWS Associate Developer Certification** | 2025
