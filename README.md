@@ -159,7 +159,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ## 📜 Certifications
 
-- **AWS Certified Developer - Associate** | 2025
+- **AWS Associate Developer Certification** | 2025
 - **IBM Data Science Professional Certificate** | 2022
 
 ---
