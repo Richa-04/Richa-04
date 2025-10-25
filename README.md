@@ -157,11 +157,10 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 - 🎨 Modern UI/UX design for seamless user experience
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+- **AWS Certified Developer - Associate** | 2025
+- **IBM Data Science Professional Certificate** | 2022
 
 ---
 
