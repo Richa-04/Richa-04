@@ -88,7 +88,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ## 💼 Work Experience
 
-###Python Developer
+### Python Developer
 **Kody Technolab Ltd., Ahmedabad, India** | *April 2022 – August 2023*  
 **Tech Stack:** Python | MySQL | AJAX | HTML | CSS | JavaScript | Django | AWS EC2 | AWS S3 | Machine Learning | NumPy
 
