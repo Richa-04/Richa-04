@@ -143,8 +143,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 - Designed and deployed a user-friendly UI and cloud-hosted backend enabling scalable processing of **1000+ hours** of multilingual audio/video data
 
 #### 👓 Real-Time Virtual Eyewear Try-On
-- Engineered a real-time facial landmark detection and GAN-based virtual try-on system using OpenCV and NVIDIA GPU hardware
-- Achieved **90%+ fitting accuracy** through iterative Agile development
+- Engineered a real-time facial landmark detection and GAN-based virtual try-on system using OpenCV and NVIDIA GPU hardware. Achieved **90%+ fitting accuracy**
 - Deployed the trained model on AWS EC2, integrating with a commercial eyewear website to enhance customer shopping experience
 
 #### 🖨️ Printing Defect Detection System
