@@ -31,7 +31,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 **Languages:** Java • Python  • SQL • HTML • CSS • JavaScript  
 **Frontend:** React.js • Spring Boot • Spring Securiy • Django • Machine Learning  
 **Database Technologies:** MySQL • MongoDB • NoSQL
-**Libraries & Tools:** Maven • Apache Server • JWT • Postman • AWS File Encryption • OpenCV • Numpy • Scikit-Learn • Pandas • JSON • Git  
+**Libraries & Tools:** Maven • Apache Server • JWT • Postman • AWS File Encryption • OpenCV • Numpy • Scikit-Learn • Pandas • JSON • Git
 **Cloud:** AWS S3 • AWS EC2 • AWS Lambda • API Gateway • AWS SQS • Google Cloud Plateform
 **Operating Systems:** Windows • Mac • Linux
 
