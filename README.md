@@ -1,4 +1,4 @@
-## Hi there, I’m Richa Padhariya! 👋
+<h2 align="center">Hi there, I'm Richa Padhariya! 👋</h2>
 
 <!--
 **Richa-04/Richa-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
