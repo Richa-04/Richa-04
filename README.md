@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 ## 👨‍💻 About Me
 
-🎓 **MSIS Student @ Northeastern University** | Full-Stack Developer passionate about creating scalable, efficient, and impactful solutions. I thrive on solving complex technical challenges and continuously expanding my expertise in modern web technologies, cloud computing, and AI integration.
+🎓 **MS in Information Systems @ Northeastern University**
+
+I'm a Software Developer who loves building applications that make life simpler, smarter, and more enjoyable. I have 1.5 years of experience as a Python Developer, where I built and maintained applications, developed solutions on AWS, and collaborated with teams to deliver reliable products.
+
+I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm expanding my skills in full-stack development and cloud technologies, learning how technology, data, and business come together to solve real-world problems.
+
+🌱 **When I'm not coding:** Traveling to new places, hiking, or getting lost in anime worlds!
 
 ---
 
