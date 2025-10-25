@@ -75,40 +75,46 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ## 🚀 Featured Projects
 
-### 📂 Mini Google Drive - Smart Document Management System
-**Tech Stack:** Java | Spring Boot | React | MongoDB | AWS S3 | OpenAI API | JWT  
+### 📂 Mini Google Drive - Smart Document Management System with AI Search
+**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | Maven | Spring Security | JWT | OpenAI API | AES | Apache Server  
 🔗 [GitHub Repo](YOUR_REPO_LINK)
 
-🚀 A full-stack intelligent document management system with AI-powered search capabilities, secure authentication, and cloud storage integration. Built with enterprise-grade architecture for scalability and performance.
+🚀 A cloud-based smart document management system with secure file upload, storage, and sharing using encryption and user authentication.
 
 **Key Features:**
-- 🔐 JWT-based authentication & authorization
-- ☁️ AWS S3 integration for secure file storage
-- 🤖 AI-powered document search using OpenAI API
-- 📤 File upload/download with progress tracking
-- 👥 Multi-user management system
+- 🔐 Secure authentication using JWT and Spring Security
+- ☁️ AWS S3 integration for cloud-based file storage
+- 🤖 AI-powered semantic search and Q&A with NLP for intelligent, context-aware document retrieval
+- 🔒 AES encryption for secure file handling
+- 📱 Responsive web interface integrated with cloud and database services
 
 ---
 
-### [Project Name 2]
-**Tech Stack:** [Technologies used]  
-🔗 [GitHub Repo](YOUR_REPO_LINK) | [Live Demo](DEMO_LINK)
+### 🖼️ Image Database System
+**Tech Stack:** Python | Scikit-Learn | NumPy  
+🔗 [GitHub Repo](YOUR_REPO_LINK)
 
-🚀 Brief compelling description of what the project does and the problem it solves.
+🚀 A system simulating an Image Database with advanced data indexing, dimensionality reduction, and image similarity search capabilities.
 
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- 📊 Data indexing and dimensionality reduction techniques
+- 🔍 Image similarity search functionality
+- 🤖 Multiple statistical classification models for subject identification
+- 👤 Person identification from query images using machine learning
 
 ---
 
-### [Project Name 3]
-**Tech Stack:** [Technologies used]  
+### 🐾 PATOI - Commercial Website for Pet Products and Pet Care
+**Tech Stack:** Python | Django | MySQL | HTML | CSS | JavaScript | APIs  
 🔗 [GitHub Repo](YOUR_REPO_LINK)
 
-🚀 Description highlighting the technical achievements and real-world impact.
+🚀 A full-stack web platform integrating database management and UI/UX design, enabling retailers to onboard and sell pet products online.
 
+**Key Features:**
+- 🛒 Marketplace for retailers to onboard and sell pet products
+- 🏪 Local service marketplace features
+- 💾 Comprehensive database management system
+- 🎨 Modern UI/UX design for seamless user experience
 ---
 
 ## 📊 GitHub Stats
