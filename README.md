@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Richa Padhariya! 👋</h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=700&height=70&lines=%F0%9F%92%BB+Software+Developer;%F0%9F%9A%80+Full+Stack+Engineer;%F0%9F%A7%A9+Problem+Solver;%E2%9D%A4%EF%B8%8F+Code+Enthusiast;%E2%9C%A8+Coding+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=700&height=70&lines=%3C%2F%3E+Software+Developer;%3C%2F%3E+Full+Stack+Engineer;%3C%2F%3E+Problem+Solver;%3C%2F%3E+Code+Enthusiast;%E2%9C%A8+Coding+the+Future" alt="Typing SVG" />
 </h2>
 
 <!--
