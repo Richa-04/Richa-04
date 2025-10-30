@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Richa Padhariya! 👋</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Building+scalable+solutions;Always+learning+new+tech" alt="Typing SVG" />
-</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer;%E2%9C%A8+Coding+the+Future" alt="Typing SVG" />
+</h2>
 
 <!--
 **Richa-04/Richa-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
