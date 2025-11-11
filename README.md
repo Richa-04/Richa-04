@@ -92,18 +92,18 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ## 🚀 Featured Projects
 
-### 📂 Mini Google Drive - Smart Document Management System with AI Search
-**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | Maven | Spring Security | JWT | OpenAI API | AES | Apache Server  
+### 📂 Mini Google Drive - AI-Powered Document Management System
+**Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | OpenAI API | Apache Tika | JWT | AES-256 | Material-UI
 🔗 [GitHub Repo](https://github.com/Richa-04/Mini-Google-Drive-Dropbox)
 
-🚀 A cloud-based document management system designed to enhance how users store, organize, and access files. It offers secure file handling and an intuitive interface, supported by AI-powered search that quickly surfaces the right documents at the right time. Built on modern cloud infrastructure, the platform delivers enterprise-grade security, high scalability, and reliable performance. With machine learning enabling context-aware document retrieval, it empowers users to work more efficiently and manage information with confidence.
+🚀 An intelligent cloud document management platform that doesn't just store files—it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
 
 **Key Features:**
-- 🔐 Secure authentication using JWT and Spring Security
-- ☁️ AWS S3 integration for cloud-based file storage
-- 🤖 AI-powered semantic search and Q&A with NLP for intelligent, context-aware document retrieval
-- 🔒 AES encryption for secure file handling
-- 📱 Responsive web interface integrated with cloud and database services
+- 🤖 AI-Powered NLP Pipeline: Automated text extraction, keyword generation, and document summarization using OpenAI GPT-3.5
+- 🔍 Semantic Search: Natural language queries with vector embeddings (1536 dimensions, 78% precision threshold)
+- 🔐 Enterprise Security: AES-256 encryption, JWT authentication, BCrypt password hashing
+- ☁️ Cloud Architecture: AWS S3 storage with 15GB limit enforcement and MongoDB Atlas
+- 📊 Smart UI: Expandable keyword tags, auto-generated summaries, real-time updates with zero page reloads
 
 ---
 
