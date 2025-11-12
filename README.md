@@ -31,6 +31,10 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ---
 
+🌐 **Portfolio:** [richa-padhariya.netlify.app](https://richa-padhariya.netlify.app)
+💼 **LinkedIn:** [linkedin.com/in/richa-padhariya](https://linkedin.com/in/richa-padhariya)
+📧 **Email:** padhariya.r@northeastern.edu
+
 ## 🎓 Education
 
 ### Master of Science in Information Systems
