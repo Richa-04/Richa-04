@@ -121,6 +121,21 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ---
 
+### 🌆 HeyCity!
+**Tech Stack:** React 18 | OpenAI GPT-3.5 | JavaScript | CSS3 | Recharts | Node.js | Geolocation API  
+🔗 [GitHub Repo](https://github.com/Richa-04/HeyCity)
+
+🚀 AI-powered smart city platform bridging residents and municipal services. Features include intelligent service request predictions using OpenAI, 24/7 conversational chatbot, real-time tracking, location-based insights, and analytics dashboard for city operations. Hackathon project focused on urban transparency.
+
+**Key Features:**
+- 🔮 AI predictions: Smart resolution time estimates using NLP and historical patterns
+- 💬 24/7 Chatbot: Interactive assistant with quick actions and department routing
+- 🗺️ Location intelligence: Area-based request visualization and neighborhood insights
+- 🌍 Multilingual support with mobile-first responsive design
+
+
+---
+
 ### 🐾 PATOI - Commercial Website for Pet Products and Pet Care
 **Tech Stack:** Python | Django | MySQL | HTML | CSS | JavaScript | APIs  
 🔗 [GitHub Repo](https://github.com/Richa-04/Pet)
