@@ -100,7 +100,7 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 **Tech Stack:** Java | Spring Boot | React.js | MongoDB | AWS S3 | OpenAI API | Apache Tika | JWT | AES-256 | Material-UI
 🔗 [GitHub Repo](https://github.com/Richa-04/Mini-Google-Drive-Dropbox)
 
-🚀 An intelligent cloud document management platform that doesn't just store files—it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
+🚀 An intelligent cloud document management platform that doesn't just store files but it understands them. Using advanced NLP and AI, the system automatically extracts keywords, generates summaries, and enables semantic search across documents. Built with enterprise-grade security and modern cloud architecture, it transforms traditional file storage into a smart knowledge management system.
 
 **Key Features:**
 - 🤖 AI-Powered NLP Pipeline: Automated text extraction, keyword generation, and document summarization using OpenAI GPT-3.5
