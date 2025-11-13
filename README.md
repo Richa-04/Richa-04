@@ -182,8 +182,14 @@ I enjoy turning ideas into practical, user-friendly solutions. Currently, I'm ex
 
 ## 📜 Certifications
 
-- **AWS Associate Developer Certification** | 2025
-- **IBM Data Science Professional Certificate** | 2022
+- **AWS Certified Developer Associate** | 2025
+  - [View Certificate](YOUR_AWS_CREDENTIAL_URL)
+    
+- **Prompt Engineering Specialization** | 2025
+  - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/R4SCB2WBVFCW)
+    
+- **IBM Data Science Professional Certificate** | 2023  
+  - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/4YZXSX74HGR2)
 
 --- 
 
